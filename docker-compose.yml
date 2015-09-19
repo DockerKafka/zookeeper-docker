@@ -3,7 +3,7 @@ zookeeper:
   ports:
    - "2181:2181"
    - "2888:2888"
-   - "3888:3888" 
+   - "3888:3888"
    - "5000:5000"
   volumes:
    - ./image/conf:/opt/zookeeper-3.4.6/conf
