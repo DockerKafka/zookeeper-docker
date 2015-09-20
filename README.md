@@ -5,6 +5,8 @@ Dockerfile for [Apache ZooKeeper](https://zookeeper.apache.org/)
 
 The image is available directly from [DockerHub](https://hub.docker.com/r/dockerkafka/zookeeper/)
 
+You can browse the source in [GitHub](https://github.com/DockerKafka/zookeeper-docker)
+
 ## Usage
 
 ### Pull the image.
